@@ -77,7 +77,7 @@
 > ImageJ | FFMPEG | Linux <br> Repo: https://github.com/lucaslealll-puc-cc/puc-sc-pericia-forense-video
 
 ## **Short Projects / Tech Study**
-> | Tech | Projects |
+| Tech | Projects |
 |-------|----------|
 | <img src="../assets/assembly.png" height="20px"> **Assembly** (MIPS) | [Assembly](./Assembly/)<br>[Assembly Inline](./Assembly/asm-inline/)<br>[Assembly Mips](./Assembly-Mips/asm-mips/) |
 | <img src="../assets/jflap.png" height="20px"> **Automatons** (JFLAP) | [JFLAP Automaton](./JFLAP-Automatos)<br>[Stack Automaton](./JFLAP-Automatos)<br>[Turing Machine Automaton](./JFLAP-Automatos) |
