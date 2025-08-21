@@ -25,58 +25,59 @@
 - [**JAVA Hash Generator**](#java-hash-generator)
 - [**Identification of License Plate of Criminal After Violation**](#identification-of-license-plate-of-criminal-after-violation)
 - [**Short Projects / Tech Study**](#short-projects--tech-study)
-  
 
-## **Assembly MIPS Study Files**
+<hr> <hr>
+
+### **Assembly MIPS Study Files**
 > ASM | MIPS <br> Repo: https://github.com/lucaslealll-puc-cc/puc-aocii-assembly-mips
 >
 > Independent study of low-level languages; Language: Assembly MIPS; IDE: MARS (MIPS Assembler and Runtime Simulator)
 
-## **Complexity Analysis and Algorithms – Comparison between "P vs NP" complexities**
+### **Complexity Analysis and Algorithms – Comparison between "P vs NP" complexities**
 > C | Python <br> Repo: https://github.com/lucaslealll-puc-cc/puc-ca-20250625-trabalho-benchmark-complexidades-p-np
 > 
 > The objective is to demonstrate and compare the runtime characteristics (complexity) of several algorithms in practice
 
 
-## **Image Processing – Ads Validator By Emotional Recognition**
+### **Image Processing – Ads Validator By Emotional Recognition**
 > Python | FER | MediaPipe | Streamlit <br> Repo: https://github.com/lucaslealll-puc-cc/puc-vcrm-20250616-pjt-final-ads-validator
 > 
 > AVBER - Ads Validator By Emotional Recognition: Integrated analysis of advertising campaigns based on visual and emotional responses from the viewer's cognitive perspective
 
-## **JAVA API Rest Communication w/ GeoDB Cities**
+### **JAVA API Rest Communication w/ GeoDB Cities**
 > JAVA | GeoDB Cities <br> Repo: https://github.com/lucaslealll-puc-cc/puc-sd-20260626-java-client-rest
 > 
 > Implementation of a client application that uses a web service that provides an API that follows the REST (REpresentational State Transfer) architectural style.
 
-## **JAVA Android – API Rest Communication w/ GeoDB Cities for Android Devices**
+### **JAVA Android – API Rest Communication w/ GeoDB Cities for Android Devices**
 > JAVA | Android | GeoDB Cities   <br> Repo: https://github.com/lucaslealll-puc-cc/puc-eam-android-geodb-app
 > 
 > Implementation of a client application that uses a web service that provides an API that follows the REST (REpresentational State Transfer) architectural style.
 
-## **Image Processing – Subtraction, Object Delineation, Filters (high boost, high pass), performance comparison**
+### **Image Processing – Subtraction, Object Delineation, Filters (high boost, high pass), performance comparison**
 > Python <br> Repo: https://github.com/lucaslealll-puc-cc/puc-vcrm-20250608-tecnicas-pre-process
 > 
 > Implementation of processing techniques.
 
-## **JAVA Interface for ADB (Android Debug Bridge)**
+### **JAVA Interface for ADB (Android Debug Bridge)**
 > JAVA | ADB <br> Repo: https://github.com/lucaslealll-puc-cc/puc-sc-adb-interface
 > 
 > Development of an interface that is able to improve the experience of using the ADB tool.
 
-## **Cryptocurrency Tracker**
+### **Cryptocurrency Tracker**
 > Python <br> Repo: https://github.com/lucaslealll-puc-cc/puc-pibic-projeto-28131-2022-cripto-tracker
 > 
 > This Python application aims to collect Bitcoin wallet data using APIs generate Dataframes from this data and perform data processing.
 
-## **JAVA Hash Generator**
+### **JAVA Hash Generator**
 > JAVA <br> Repo: https://github.com/lucaslealll-puc-cc/puc-sc-gerador-hash
 > 
 > Check changes to a file and/or group of files, through of the HASH code.
 
-## **Identification of License Plate of Criminal After Violation** 
+### **Identification of License Plate of Criminal After Violation** 
 > ImageJ | FFMPEG | Linux <br> Repo: https://github.com/lucaslealll-puc-cc/puc-sc-pericia-forense-video
 
-## **Short Projects / Tech Study**
+### **Short Projects / Tech Study**
 | Tech | Projects |
 |-------|----------|
 | <img src="../assets/assembly.png" height="20px"> **Assembly** (MIPS) | [Assembly](./Assembly/)<br>[Assembly Inline](./Assembly/asm-inline/)<br>[Assembly Mips](./Assembly-Mips/asm-mips/) |
