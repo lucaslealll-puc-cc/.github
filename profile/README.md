@@ -26,7 +26,7 @@
 - [**Identification of License Plate of Criminal After Violation**](#identification-of-license-plate-of-criminal-after-violation)
 - [**Short Projects / Tech Study**](#short-projects--tech-study)
 
-<hr> <hr>
+<br> <br>
 
 ### **Assembly MIPS Study Files**
 > ASM | MIPS <br> Repo: https://github.com/lucaslealll-puc-cc/puc-aocii-assembly-mips
