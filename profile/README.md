@@ -18,7 +18,7 @@
 - [**Complexity Analysis and Algorithms – Comparison between "P vs NP" complexities**](#complexity-analysis-and-algorithms--comparison-between-p-vs-np-complexities)
 - [**Image Processing – Ads Validator By Emotional Recognition**](#image-processing--ads-validator-by-emotional-recognition)
 - [**JAVA API Rest Communication w/ GeoDB Cities**](#java-api-rest-communication-w-geodb-cities)
-- [**JAVA/Android – API Rest Communication w/ GeoDB Cities for Android Devices**](#javaandroid--api-rest-communication-w-geodb-cities-for-android-devices)
+- [**JAVA Android – API Rest Communication w/ GeoDB Cities for Android Devices**](#java-android--api-rest-communication-w-geodb-cities-for-android-devices)
 - [**Image Processing – Subtraction, Object Delineation, Filters (high boost, high pass), performance comparison**](#image-processing--subtraction-object-delineation-filters-high-boost-high-pass-performance-comparison)
 - [**JAVA Interface for ADB (Android Debug Bridge)**](#java-interface-for-adb-android-debug-bridge)
 - [**Cryptocurrency Tracker**](#cryptocurrency-tracker)
@@ -28,55 +28,56 @@
   
 
 ## **Assembly MIPS Study Files**
-Independent study of low-level languages; Language: Assembly MIPS; IDE: MARS (MIPS Assembler and Runtime Simulator)
-
-Repo: https://github.com/lucaslealll-puc-cc/puc-aocii-assembly-mips
+> ASM | MIPS <br> Repo: https://github.com/lucaslealll-puc-cc/puc-aocii-assembly-mips
+>
+> Independent study of low-level languages; Language: Assembly MIPS; IDE: MARS (MIPS Assembler and Runtime Simulator)
 
 ## **Complexity Analysis and Algorithms – Comparison between "P vs NP" complexities**
-The objective is to demonstrate and compare the runtime characteristics (complexity) of several algorithms in practice
+> C | Python <br> Repo: https://github.com/lucaslealll-puc-cc/puc-ca-20250625-trabalho-benchmark-complexidades-p-np
+> 
+> The objective is to demonstrate and compare the runtime characteristics (complexity) of several algorithms in practice
 
-Repo: https://github.com/lucaslealll-puc-cc/puc-ca-20250625-trabalho-benchmark-complexidades-p-np
 
 ## **Image Processing – Ads Validator By Emotional Recognition**
-AVBER - Ads Validator By Emotional Recognition: Integrated analysis of advertising campaigns based on visual and emotional responses from the viewer's cognitive perspective
-
-Repo: https://github.com/lucaslealll-puc-cc/puc-vcrm-20250616-pjt-final-ads-validator
+> Python | FER | MediaPipe | Streamlit <br> Repo: https://github.com/lucaslealll-puc-cc/puc-vcrm-20250616-pjt-final-ads-validator
+> 
+> AVBER - Ads Validator By Emotional Recognition: Integrated analysis of advertising campaigns based on visual and emotional responses from the viewer's cognitive perspective
 
 ## **JAVA API Rest Communication w/ GeoDB Cities**
-Implementation of a client application that uses a web service that provides an API that follows the REST (REpresentational State Transfer) architectural style.
+> JAVA | GeoDB Cities <br> Repo: https://github.com/lucaslealll-puc-cc/puc-sd-20260626-java-client-rest
+> 
+> Implementation of a client application that uses a web service that provides an API that follows the REST (REpresentational State Transfer) architectural style.
 
-Repo: https://github.com/lucaslealll-puc-cc/puc-sd-20260626-java-client-rest
-
-## **JAVA/Android – API Rest Communication w/ GeoDB Cities for Android Devices**
-Implementation of a client application that uses a web service that provides an API that follows the REST (REpresentational State Transfer) architectural style.
-
-Repo: https://github.com/lucaslealll-puc-cc/puc-eam-android-geodb-app
+## **JAVA Android – API Rest Communication w/ GeoDB Cities for Android Devices**
+> JAVA | Android | GeoDB Cities   <br> Repo: https://github.com/lucaslealll-puc-cc/puc-eam-android-geodb-app
+> 
+> Implementation of a client application that uses a web service that provides an API that follows the REST (REpresentational State Transfer) architectural style.
 
 ## **Image Processing – Subtraction, Object Delineation, Filters (high boost, high pass), performance comparison**
-Implementation of processing techniques.
-
-Repo: https://github.com/lucaslealll-puc-cc/puc-vcrm-20250608-tecnicas-pre-process
+> Python <br> Repo: https://github.com/lucaslealll-puc-cc/puc-vcrm-20250608-tecnicas-pre-process
+> 
+> Implementation of processing techniques.
 
 ## **JAVA Interface for ADB (Android Debug Bridge)**
-Development of an interface that is able to improve the experience of using the ADB tool.
-
-Repo: https://github.com/lucaslealll-puc-cc/puc-sc-adb-interface
+> JAVA | ADB <br> Repo: https://github.com/lucaslealll-puc-cc/puc-sc-adb-interface
+> 
+> Development of an interface that is able to improve the experience of using the ADB tool.
 
 ## **Cryptocurrency Tracker**
-This Python application aims to collect Bitcoin wallet data using APIs generate Dataframes from this data and perform data processing.
-
-Repo: https://github.com/lucaslealll-puc-cc/puc-pibic-projeto-28131-2022-cripto-tracker
+> Python <br> Repo: https://github.com/lucaslealll-puc-cc/puc-pibic-projeto-28131-2022-cripto-tracker
+> 
+> This Python application aims to collect Bitcoin wallet data using APIs generate Dataframes from this data and perform data processing.
 
 ## **JAVA Hash Generator**
-Check changes to a file and/or group of files, through of the HASH code.
+> JAVA <br> Repo: https://github.com/lucaslealll-puc-cc/puc-sc-gerador-hash
+> 
+> Check changes to a file and/or group of files, through of the HASH code.
 
-Repo: https://github.com/lucaslealll-puc-cc/puc-sc-gerador-hash
-
-## **Identification of License Plate of Criminal After Violation**
-Repo: https://github.com/lucaslealll-puc-cc/puc-sc-pericia-forense-video
+## **Identification of License Plate of Criminal After Violation** 
+> ImageJ | FFMPEG | Linux <br> Repo: https://github.com/lucaslealll-puc-cc/puc-sc-pericia-forense-video
 
 ## **Short Projects / Tech Study**
-| Tech | Projects |
+> | Tech | Projects |
 |-------|----------|
 | <img src="../assets/assembly.png" height="20px"> **Assembly** (MIPS) | [Assembly](./Assembly/)<br>[Assembly Inline](./Assembly/asm-inline/)<br>[Assembly Mips](./Assembly-Mips/asm-mips/) |
 | <img src="../assets/jflap.png" height="20px"> **Automatons** (JFLAP) | [JFLAP Automaton](./JFLAP-Automatos)<br>[Stack Automaton](./JFLAP-Automatos)<br>[Turing Machine Automaton](./JFLAP-Automatos) |
